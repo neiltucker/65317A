@@ -116,5 +116,3 @@ Explore IQP features including Optimized Locking and parameter sensitivity plan 
 * **Lab:** Enable and Monitor Intelligent Query Processing
 
 ---
-
-Would you like me to generate a specific **GitHub Actions** workflow to automate the naming of these course files as we discussed previously?

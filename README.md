@@ -6,8 +6,6 @@
 * **Duration:** 3 Days (10 Modules)
 * **Audience Level:** Beginner
 * **Format:** Instructor-Led / Self-Paced
-* **Provider:** Software Tutorial Services LLC
-* **Platform:** [coursewarestudio.ai](https://www.google.com/search?q=https://coursewarestudio.ai)
 
 ---
 

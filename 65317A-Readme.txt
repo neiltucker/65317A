@@ -6,9 +6,6 @@
 Setup Files: https://github.com/neiltucker/65317A
 Lab Setup:  https://github.com/neiltucker/65xxx
 
-## 
-Online Courseware: http://www.softwaretutorialservices.com/course/65317a
-
 ## ILT or Bootcamp Delivery
 This 3-day course teaches students how to perform Transact-SQL queries, query analysis and query optimization on SQL Server 2025. Students will learn to use SQL Server Management Studio 22 and explore modern features including native JSON, vector search, and Intelligent Query Processing. Some lessons also apply to Azure SQL Database environments. 
 

@@ -5,7 +5,7 @@
 * **Course Number:** 65317A
 * **Duration:** 3 Days (10 Modules)
 * **Audience Level:** Beginner
-* **Format:** Instructor-Led / Self-Paced
+* **Format:** Instructor-Led / Bootcamp
 
 ---
 

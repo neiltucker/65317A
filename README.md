@@ -1,5 +1,7 @@
 # Course 65317A: Querying and Analyzing SQL Server 2025
 
+**Courseware Access:** [Software Tutorial Services](https://www.softwaretutorialservices.com/course/65317a)
+
 ## Course Metadata
 
 * **Course Number:** 65317A
@@ -12,6 +14,8 @@
 ## Course Overview
 
 This three-day course teaches students how to perform Transact-SQL queries, query analysis, and query optimization on **SQL Server 2025**. Students will utilize **SQL Server Management Studio (SSMS) 22** and explore modern features including native JSON, vector search, and Intelligent Query Processing. Many lessons are also applicable to Azure SQL Database environments.
+
+> **Modern AI-Powered Learning:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, receive instant analysis and explanations of T-SQL queries and execution plans, and get guided lab assistance whenever they need it.
 
 ### At Course Completion
 
